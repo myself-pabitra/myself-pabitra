@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D03AQET3fTnaioRtA/profile-displayphoto-shrink_800_800/0/1668679610045?e=1714003200&v=beta&t=WLu8z1kicQ2m-crm4DI3L0_d5F3RJEka9tHBz55E14I" alt="Profile Photo" />
+  <img height="200" src="https://media.licdn.com/dms/image/D4D03AQET3fTnaioRtA/profile-displayphoto-shrink_800_800/0/1668679610045?e=1714003200&v=beta&t=WLu8z1kicQ2m-crm4DI3L0_d5F3RJEka9tHBz55E14I](https://github.com/myself-pabitra/CodeSnap/blob/main/assets/img/pabitra.png" alt="Profile Photo" />
 </div>
 
 ##
