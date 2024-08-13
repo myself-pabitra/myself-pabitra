@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-- ✨ Creating bugs since 2022
+- ✨ Creating bugs since 2019
 - 📚 Currently molding the digital landscape as a Backend Developer
 - 🌱 Constantly learning and exploring new technologies
 - 👯 I’m looking to collaborate on open source projects
